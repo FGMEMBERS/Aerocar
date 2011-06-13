@@ -258,6 +258,7 @@
  <type>pick</type>
  <object-name>wing_left</object-name>
  <object-name>wing_right</object-name>
+ <object-name>tail</object-name>
  <action>
   <button>0</button>
   <binding>

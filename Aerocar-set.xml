@@ -3,6 +3,14 @@
   <sim>
    <description>Aerocar I</description>
    <author>Gijs de Rooy</author>
+   <status>alpha</status>
+   <rating>
+    <FDM type="int">2</FDM>
+    <systems type="int">1</systems>
+    <cockpit type="int">1</cockpit>
+    <model type="int">2</model>
+   </rating>
+   
    <flight-model>jsb</flight-model>
    <aero>Aerocar</aero>
  
@@ -28,23 +36,23 @@
    <help>
     <title>Aerocar I</title>
 
-   <key>
-    <name>Cruise speed</name>
-    <desc>100 mph (87 kts)</desc>
-   </key>
-   <key>
-    <name>Landing speed</name>
-    <desc>50-55 mph (43-48 kts)</desc>
-   </key>
+    <key>
+     <name>Cruise speed</name>
+     <desc>100 mph (87 kts)</desc>
+    </key>
+    <key>
+     <name>Landing speed</name>
+     <desc>50-55 mph (43-48 kts)</desc>
+    </key>
 
-   <key>
-    <name>Top road speed</name>
-    <desc>67 mph (58 kts)</desc>
-   </key>
+    <key>
+     <name>Top road speed</name>
+     <desc>67 mph (58 kts)</desc>
+    </key>
 
-   <text>
-   Click the tail section to convert between car and aircraft.
-   </text>
+    <text>
+     Click the tail section to convert between car and aircraft.
+    </text>
 	
    </help>
 
