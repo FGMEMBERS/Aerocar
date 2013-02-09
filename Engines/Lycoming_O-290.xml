@@ -14,17 +14,17 @@
 -->
 
 <piston_engine name="Lycoming_O-290">
-  <minmp unit="INHG">          6.0   </minmp>			<!-- unknown -->
-  <maxmp unit="INHG">         29.9   </maxmp>			<!-- unknown -->
+  <minmp unit="INHG">         10.1   </minmp>			<!-- unknown -->
+  <maxmp unit="INHG">         28.0   </maxmp>			<!-- unknown -->
   <displacement unit="IN3">  289.0   </displacement>
   <bore unit="IN">             4.875 </bore>
   <stroke unit="IN">           3.875 </stroke>
   <cylinders>                  4     </cylinders>
   <compression-ratio>          7.5   </compression-ratio>
-  <maxhp>       		     140.8   </maxhp>
-  <cycles>       			   4.0   </cycles>
-  <idlerpm>    		     	 700.0   </idlerpm>			<!-- unknown -->
-  <maxrpm>    		  	    2800.0   </maxrpm>
-  <maxthrottle>  		       1.0   </maxthrottle>
-  <minthrottle>  		       0.1   </minthrottle>
+  <maxhp>       	     140.8   </maxhp>
+  <cycles>       	       4.0   </cycles>
+  <idlerpm>        	     700.0   </idlerpm>			<!-- unknown -->
+  <maxrpm>    		    2800.0   </maxrpm>
+  <maxthrottle>  	       1.0   </maxthrottle>
+  <minthrottle>  	       0.1   </minthrottle>
 </piston_engine>
