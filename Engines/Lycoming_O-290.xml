@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--
+  File:     Lycoming_O-290.xml
+  Author:   Aero-Matic v 0.81
+
+  name:             Lycoming_O-290
+  type:             piston (4 cylinder)
+  power:            140.805 hp
+  bore:		  		4.875 in
+  stroke:		  	3.875 in
+  dry weight:	  	264.0 lbs
+  specific power:   0.48 hp/cu in (22.2kW/L)
+  compressionratio: 7.5:1
+-->
+
+<piston_engine name="Lycoming_O-290">
+  <minmp unit="INHG">         10.1   </minmp>			<!-- unknown -->
+  <maxmp unit="INHG">         28.0   </maxmp>			<!-- unknown -->
+  <displacement unit="IN3">  289.0   </displacement>
+  <bore unit="IN">             4.875 </bore>
+  <stroke unit="IN">           3.875 </stroke>
+  <cylinders>                  4     </cylinders>
+  <compression-ratio>          7.5   </compression-ratio>
+  <maxhp>       	     140.8   </maxhp>
+  <cycles>       	       4.0   </cycles>
+  <idlerpm>        	     700.0   </idlerpm>			<!-- unknown -->
+  <maxrpm>    		    2800.0   </maxrpm>
+  <maxthrottle>  	       1.0   </maxthrottle>
+  <minthrottle>  	       0.1   </minthrottle>
+</piston_engine>

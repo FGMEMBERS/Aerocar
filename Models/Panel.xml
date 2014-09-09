@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<path>Panel.ac</path>
+
+<!-- INSTRUMENTS -->
+
+<model>
+ <path>Aircraft/Aerocar/Models/Instruments/fuelgauge.xml</path>
+ <offsets>
+  <x-m> 0.010</x-m>
+  <y-m>-0.480</y-m>
+  <z-m> 0.010</z-m>
+ </offsets>
+</model>
+
+<!-- YOKES -->
+
+<animation>
+ <type>rotate</type>
+ <object-name>yoke_right</object-name>
+ <property>/controls/flight/aileron</property>
+ <factor>-90</factor>
+ <center>
+  <x-m>-1.690</x-m>
+  <y-m> 0.327</y-m>
+  <z-m>-0.594</z-m>
+ </center>
+ <axis>
+  <x>1</x>
+  <y>0</y>
+  <z>0</z>
+ </axis>
+</animation>
+
+</PropertyList>
