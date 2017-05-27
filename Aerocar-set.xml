@@ -13,6 +13,19 @@
    
    <flight-model>jsb</flight-model>
    <aero>Aerocar</aero>
+
+   <tags>
+    <tag>high-wing</tag>
+    <tag>tricycle</tag>
+    <tag>fixed-gear</tag>
+    <tag>single-engine</tag>
+    <tag>piston</tag>
+    <tag>fixed-pitch</tag>
+    <tag>ga</tag>
+    <tag>groundvehicle</tag>
+    <tag>wing-fold</tag>
+    <tag>1950s</tag>
+   </tags>
  
    <model>
     <path>Aircraft/Aerocar/Models/Aerocar.xml</path>
